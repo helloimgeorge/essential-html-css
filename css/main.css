@@ -69,18 +69,17 @@ header {
 }
 
 .tag-line {
-	font-size: 120% 
-	color: #FFF;	
+	font-size: 120%; 
+	color: #EEE;	
 	margin: 0;
 } 
 
-#general, #about {
+#general, #about, #menu {
 	padding: 1em; 
 }
 
 #menu {
 	background-color: rgba(207, 205, 140, 0.5);
-	padding: 1em; 
 }
 
 dt { 
